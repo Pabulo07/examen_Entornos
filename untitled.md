@@ -21,6 +21,13 @@
 14.- git checkout master
 
 15.-
+//  git add --all 
+
+//  git commit -m "final commit" 
+
+//  git remote add origin https://github.com/Pabulo07/examen_Entornos
+
+//  git push -u origin master
 
 
 
